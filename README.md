@@ -4,4 +4,5 @@ This project is about cafe customers. It allows user to store, manage and monito
 SQLite database is used to store data about customers.
 ## Data Management
 User can add or delete customers, update information about them. He or she can extract information with built-in queries.
-
+## Used tools
+Python and SQL
